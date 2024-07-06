@@ -1,0 +1,17 @@
+:root {
+  font-family: "Poppins", sans-serif;
+
+  --brand-color: hsl(7, 84%, 62%);
+  --white: hsl(0, 0%, 100%);
+  --surface-color: hsl(0, 0%, 96%);
+  --skeleton-color: hsl(0, 0%, 85%);
+  --shape-transparancy: hsla(0, 0%, 100%, 0.6);
+  --text-color-primary: hsl(0, 0%, 19%);
+  --text-color-secondary: hsl(0, 0%, 42%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
